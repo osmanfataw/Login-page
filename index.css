@@ -1,0 +1,46 @@
+.container{
+    height: 230px;
+    width: 200px;
+    background-color: transparent;
+    background: tomato;
+    margin-left: 600px;
+    margin-top: 140px;
+    border-radius: 10px;
+}
+h2{
+    padding-top: 10px;
+}
+input{
+    
+    border-top-style: unset;
+    
+    border-left: unset;
+    border-right: unset;
+    
+    height: 20px;
+    width: 180px;
+    background: transparent;
+}
+button{
+    height: 50px;
+    width: 130px;
+    border-radius: 10px;
+    background: transparent;
+}
+
+body{
+    background-image: url('image2.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+span{
+    font-weight: 900;
+    font-size: 50px;
+    font-family: fantasy;
+    font-variant: initial;
+    color: rgb(189, 71, 81);
+    display: flex;
+   justify-content: center;
+}
